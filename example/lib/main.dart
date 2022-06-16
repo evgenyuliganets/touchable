@@ -1,8 +1,8 @@
-import 'package:example/screens/screen1.dart';
-import 'package:example/screens/screen2.dart';
-import 'package:example/screens/screen3.dart';
 import 'package:flutter/material.dart';
-import 'package:touchable/touchable.dart';
+
+import 'screens/screen1.dart';
+import 'screens/screen2.dart';
+import 'screens/screen3.dart';
 
 void main() {
   runApp(MaterialApp(

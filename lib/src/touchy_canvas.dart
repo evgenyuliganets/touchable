@@ -535,9 +535,9 @@ class TouchyCanvas {
 //  }
 
 //
-//  void scale(double sx, [double sy]) {
-//    // TODO: implement scale
-//  }
+ void scale(double sx, double sy) {
+   _canvas.scale(sx,sy);
+ }
 
 //
 //  void skew(double sx, double sy) {
