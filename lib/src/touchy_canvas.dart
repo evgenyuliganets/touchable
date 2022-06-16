@@ -535,8 +535,8 @@ class TouchyCanvas {
 //  }
 
 //
- void scale(double sx, double sy) {
-   _canvas.scale(sx,sy);
+ void scale(double sx) {
+   _canvas.scale(sx);
  }
 
 //
